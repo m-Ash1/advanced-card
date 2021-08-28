@@ -1,3 +1,3 @@
 # advanced-card
 
-<img src="./task-advanced-card.PNG">
+<img src="./task-advanced-card.png">
